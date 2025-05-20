@@ -13,6 +13,18 @@
     },
     "events": [
       {
+        "start_date": {
+          "year": "305"
+        },
+        "end_date": {
+          "year": "381"
+        },
+        "text": {
+          "headline": "ﺷﯿﺦ ﺻﺪﻭﻕ",
+          "text": "<br/><p>محمد بن علی بن حسین بن موسی بن بابویه قمی (۳۰۵-۳۸۱ق) معروف به شیخ صدوق از عالمان شیعه در قرن چهارم هجری قمری است. وی از مشهورترین محدّثان و فقیهان مکتب کلامی و حدیث‌محور قم به شمار می‌آید. حدود ۳۰۰ اثر علمی به او نسبت داده‌ شده ولی بسیاری از آنها امروزه در دسترس نیست. یکی از مهمترین آثار وی، کتاب من لایحضره الفقیه از کتب اربعه شیعه است. از دیگر آثار شیخ صدوق، معانی الاخبار، عیون اخبار الرضا، الخصال، علل الشرایع و صفات الشیعة است.</a>"
+        }
+      },
+      {
         "media": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/800px-Ferdinand_de_Saussure_by_Jullien_Restored.png",
           "caption": "The Swiss linguist Ferdinand de Saussure (1857–1913) (<a target=\"_blank\" href='https://en.wikipedia.org/wiki/Ferdinand_de_Saussure'>credits</a>)"
