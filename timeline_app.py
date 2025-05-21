@@ -77,7 +77,7 @@ data = 'Data'
 code = 'HTML Code'
 line = 'Visualization'
 about = 'About'
-view = st.sidebar.radio("View", (line, data, about), index=0) # code
+view = st.sidebar.radio("View", (line), index=0) # code
 
 if view == line:
     # render html
